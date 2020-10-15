@@ -2,9 +2,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phongvn2611" alt="phongvn2611" /> <img src="https://badges.pufler.dev/repos/phongvn2611" alt="phongvn2611" /> </p>
 
+## 😄 About me
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE)
-- 🌱 I’m currently learning **Web**
-- 💻 All of my projects are available at [https://github.com/phongvn2611]
+- 🌱 I’m currently learning **Front-end web**
+- 💻 All of my projects are available at https://github.com/phongvn2611
 
 ## 📫 Get in touch
 Email: ***ngocphongstudent2611@gmail.com***
@@ -14,7 +15,7 @@ Email: ***ngocphongstudent2611@gmail.com***
 
 -----
 
-## Professional skills
+## &#x1f4aa Professional skills
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
