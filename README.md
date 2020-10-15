@@ -10,7 +10,11 @@
 ## 📫 Get in touch
 Email: ***ngocphongstudent2611@gmail.com***
 <p align="center">
-  <a href="https://www.facebook.com/phongvn2611" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" /></a> <a href="https://github.com/phongvn2611" alt="Github"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a> <a href="https://www.youtube.com/channel/UCGUzBndNK7UfhPZvGQ8sEuQ" alt="Youtube channel" target="_blank" ><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/></a><a href="https://www.linkedin.com/in/phongvn2611/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.facebook.com/phongvn2611" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" /></a> 
+  <a href="https://github.com/phongvn2611" alt="Github"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a> 
+  <a href="https://www.youtube.com/channel/UCGUzBndNK7UfhPZvGQ8sEuQ" alt="Youtube channel" target="_blank" ><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/> </a>
+  <a href="https://www.linkedin.com/in/phongvn2611/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="ngocphongstudent2611@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
 
 ## 💪 Professional skills
