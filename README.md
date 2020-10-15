@@ -13,8 +13,6 @@ Email: ***ngocphongstudent2611@gmail.com***
   <a href="https://www.facebook.com/phongvn2611" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" /></a> <a href="https://github.com/phongvn2611" alt="Github"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a> <a href="https://www.youtube.com/channel/UCGUzBndNK7UfhPZvGQ8sEuQ" alt="Youtube channel" target="_blank" ><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/></a><a href="https://www.linkedin.com/in/phongvn2611/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
------
-
 ## 💪 Professional skills
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -24,8 +22,6 @@ Email: ***ngocphongstudent2611@gmail.com***
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="opencv" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="python" width="40" height="40"/>
 </p>
-
------
 
 ## &#x1f4c8; My GitHub stats
 <p align="center">
