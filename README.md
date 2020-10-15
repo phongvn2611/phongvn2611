@@ -4,7 +4,7 @@
 
 ## 😄 About me
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE)
-- 🌱 I’m currently learning **Front-end web**
+- 🌱 I’m currently learning **Information Technology**
 - 💻 All of my projects are available at https://github.com/phongvn2611
 
 ## 📫 Get in touch
@@ -15,7 +15,7 @@ Email: ***ngocphongstudent2611@gmail.com***
 
 -----
 
-## &#x1f4aa Professional skills
+## 💪 Professional skills
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
