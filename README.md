@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phongvn2611" alt="phongvn2611" /> <img src="https://badges.pufler.dev/repos/phongvn2611" alt="phongvn2611" /> </p>
 
 ## 😄 About me
-- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE)
+- ✍ I'm a student of [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn) (HCMUTE)
 - 🌱 I’m currently learning **Information Technology**
 - 💻 All of my projects are available at https://github.com/phongvn2611
 
