@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ngoc Phong</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=phongvn2611" alt="phongvn2611" /> <img src="https://badges.pufler.dev/repos/phongvn2611" alt="phongvn2611" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phongvn2611" alt="phongvn2611" /> <img src="https://badges.pufler.dev/repos/phongvn2611?style=flat-square&color=black&logo=github" /> </p>
 
 ## 😄 About me
 - ✍ I'm a student of [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn) (HCMUTE)
