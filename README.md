@@ -12,8 +12,8 @@
 ## 📫 Get in touch
 Email: ***ngocphongstudent2611@gmail.com***
 <p align="center">
-  <a href="https://www.facebook.com/ngocphong2611" alt="Facebook" target="_blank><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" /></a> 
-  <a href="https://github.com/phongvn2611" alt="Github" target="_blank><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a> 
+  <a href="https://www.facebook.com/ngocphong2611" alt="Facebook" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" /></a> 
+  <a href="https://github.com/phongvn2611" alt="Github" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a> 
   <a href="https://www.instagram.com/__ngocphong__/" alt="Instagram" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
