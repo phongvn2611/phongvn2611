@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ngoc Phong</h1>
 
-<p align="center><img src='https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif' width='400"' height='250"'></p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phongvn2611" /> <img src="https://badges.pufler.dev/repos/phongvn2611" /> </p>
+
+<p align="center"> <img src='https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif' width='400"' height='250"'/> </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/kumamon-runner.gif" alt="kumamon" /></p>
 
