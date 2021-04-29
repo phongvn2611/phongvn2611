@@ -38,6 +38,6 @@ Email: ***ngocphongstudent2611@gmail.com***
   <img src="https://profile-counter.glitch.me/phongvn2611/count.svg"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongvn2611&layout=compact" alt="phongvn2611" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=phongvn2611&show_icons=true&count_private=true&theme=algolia" alt="phongvn2611" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phongvn2611&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongvn2611&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
 </p>
