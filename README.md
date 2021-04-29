@@ -34,8 +34,9 @@ Email: ***ngocphongstudent2611@gmail.com***
   <img src='https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-small.gif' width='120"' height='80"'>
   <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='120"' height='80"'>
 </p>
+
+<p align="center">Visitor count</p>
 <p align="center">
-  Visitor count 
   <img src="https://profile-counter.glitch.me/phongvn2611/count.svg"/>
 </p>
 <table style="width: 100%;">
