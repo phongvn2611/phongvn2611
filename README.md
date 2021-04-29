@@ -19,9 +19,8 @@ Email: ***ngocphongstudent2611@gmail.com***
   <a href="https://www.instagram.com/__ngocphong__/" alt="Instagram" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-## 💪 Professional skills
+## 💪 Skills
 <p align="center">
-  <img src"https://img.shields.io/badge/-C%23-239120?style=for-the-badge&labelColor=black&logo=C%20Sharp&logoColor=239120">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=JavaScript&logoColor=F7DF1E">
@@ -29,7 +28,7 @@ Email: ***ngocphongstudent2611@gmail.com***
   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DAFB">
 </p>
 
-## &#x1f4c8; My GitHub stats
+## &#x1f4c8; GitHub stats
 <p align="center">
   <img src='https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-small.gif' width='120"' height='80"'>
   <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='120"' height='80"'> 
