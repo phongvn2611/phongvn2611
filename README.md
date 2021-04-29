@@ -19,11 +19,12 @@ Email: ***ngocphongstudent2611@gmail.com***
 
 ## 💪 Professional skills
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </p>
 
 ## &#x1f4c8; My GitHub stats
@@ -32,7 +33,7 @@ Email: ***ngocphongstudent2611@gmail.com***
   <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='120"' height='80"'> 
 </p>
 <p align="center">
-  Visitor count
+  Visitor count 
   <img src="https://profile-counter.glitch.me/phongvn2611/count.svg"/>
 </p>
 <p align="center">
