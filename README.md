@@ -4,8 +4,6 @@
 
 <p align="center"> <img src='https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif' width='400"' height='250"'/> </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/kumamon-runner.gif" alt="kumamon" /></p>
-
 ## 😄 About me
 - ✍ I'm a student of [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn) (HCMUTE)
 - 🌱 I’m currently learning **Information Technology**
@@ -39,7 +37,14 @@ Email: ***ngocphongstudent2611@gmail.com***
   Visitor count 
   <img src="https://profile-counter.glitch.me/phongvn2611/count.svg"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phongvn2611&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongvn2611&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
-</p>
+<table style="width: 100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=phongvn2611&count_private=true&show_icons=true&theme=blueberry" width=100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongvn2611&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=100%"/>
+    </td>
+    <td>
+      <p align="center"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/></p>
+    </td>
+  </tr>
+</table>
