@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ngoc Phong</h1>
+<h1 align="center">WELCOME TO MY GITHUB</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phongvn2611" /> <img src="https://badges.pufler.dev/repos/phongvn2611" /> </p>
 
 <p align="center"> <img src='https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif' width='400"' height='250"'/> </p>
 
 ## 😄 About me
+- 👋 My name is Phong
 - ✍ I'm a student of [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn) (HCMUTE)
 - 🌱 I’m currently learning **Information Technology**
 - 💻 All of my projects are available at https://github.com/phongvn2611
