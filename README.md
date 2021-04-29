@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ngoc Phong</h1>
 
+<p align="center><img src='https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif' width='400"' height='250"'></p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phongvn2611" /> <img src="https://badges.pufler.dev/repos/phongvn2611" /> </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/kumamon-runner.gif" alt="kumamon" /></p>
@@ -19,12 +21,12 @@ Email: ***ngocphongstudent2611@gmail.com***
 
 ## 💪 Professional skills
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src"https://img.shields.io/badge/-C%23-239120?style=for-the-badge&labelColor=black&logo=C%20Sharp&logoColor=239120">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=JavaScript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&labelColor=black&logo=Node%2Ejs&logoColor=339933">
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DAFB">
 </p>
 
 ## &#x1f4c8; My GitHub stats
