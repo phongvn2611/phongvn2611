@@ -29,10 +29,11 @@ Email: ***ngocphongstudent2611@gmail.com***
 ## &#x1f4c8; My GitHub stats
 <p align="center">
   <img src='https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-small.gif' width='120"' height='80"'>
-  <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='120"' height='80"'>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphongvn2611&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
+  <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='120"' height='80"'> 
+</p>
+<p align="center">
+  Visitor count
+  <img src="https://profile-counter.glitch.me/phongvn2611/count.svg"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongvn2611&layout=compact" alt="phongvn2611" />&nbsp;
